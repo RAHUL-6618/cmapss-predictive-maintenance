@@ -1,4 +1,4 @@
-# cmapss-predictive-maintenance
+# C-mapss-predictive-maintenance
 ### EffiCombatEngine — Turbofan Engine Health Monitoring
 
 Predicting jet engine failure before it happens using NASA sensor data.
